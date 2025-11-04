@@ -1,14 +1,14 @@
 -- Hey hey hey little skid 💀🥀 never skid my scripts cuz i skidded them already🥭🥭🥭
 -- Skid, eat, sleep, repeat
 
-print("Tonight's the night. And it's going to happen again... and again. It has to happen. Nice night. Miami is a great town. I love the Cuban food, pork sandwiches, my favorite. But I'm hungry for something different now")
+print("ToNight's The Night")
 print("Skid HUB loader...")
 print("Loading script...")
 
-if game.PlaceId == 125009265613167 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxTurboX/SkidHUB/refs/heads/main/InkGame.lua"))()
+if game.PlaceId == "125009265613167" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxTurboX/SkidHUB/refs/heads/main/InkGame"))()
+elseif game.PlaceId == "119099244949868" or game.PlaceId == "99567941238278" or game.PlaceId == "76172769094087" or game.PlaceId == "113555439745862" or game.PlaceId == "121431824618615" or game.PlaceId == "122816944483266" or game.PlaceId == "135136333168784" or game.PlaceId == "138384426832196" then
+    return error("LOAD IN GAME NOT IN LOBBY🙏😭🥀")
 else
-    error("Unsupported Game! Please execute loader in supported Game")
+    return error("Unsupported Game! Please execute loader in supported Game")
 end
-
-
