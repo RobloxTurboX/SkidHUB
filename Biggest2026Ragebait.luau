@@ -10,6 +10,7 @@ nigga2.Outline = true
 nigga2.Size = 20
 nigga2.Color = Color3.new(1,1,1)
 nigga2.Position = Vector2.new(game:GetService("Workspace").CurrentCamera.ViewportSize.X / 3.25, game:GetService("Workspace").CurrentCamera.ViewportSize.Y / 2)
+task.wait(1)
 task.wait(3)
 local function notskidedfunction()
     if not isrbxactive() then return end
