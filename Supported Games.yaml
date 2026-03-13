@@ -1,4 +1,19 @@
+[/SUPPORTED GAMES - SKID HUB/]
+
 [+] Ink Game
+  Auto:
+    [-] Auto Guard Enroll
+    [-] Auto QTE (FPS BASED, DISABLE OTHER FUNCTIONS AND INCREASE VM FPS FOR BETTER ACCURACY)
+      > Ping Pong - 99% Accuracy
+      > Tug Of War - 99% Accuracy
+      > Mingle/Sky Squid Game/MonkeyBars MiniGame - 99% Accuracy
+      > JumpRope - 100% Accuracy
+      > Pehntatlon (Stone, Spinning Top, Gonggi) - 100%(Except Stone game - 99%) Accuracy
+      [<>] Slider Auto QTE Scan Delay(minimum 0 frames max 30 frames, more = better accuracy)
+      [<>] Slider Reaction time(The more the delay between clicks in some QTEs - For Legit Players)
+    [-] Auto Cookie Dalgona
+      [<>] Slider delay between clicks(The more the delay between clicks - For Legit Players)
+      
   Visuals:
     [-] Glass Bridge ESP
       > Shows Fake Tiles
@@ -12,36 +27,34 @@
       > Can't see "Phantom Step", "Chain Reaction", "Last Stand"
       > Sharpshooter power only able to see on Rebel
 
-  Auto:
-    [-] Auto QTE (FPS BASED, DISABLE OTHER FUNCTIONS AND INCREASE VM FPS FOR BETTER ACCURACY)
-      > Ping Pong - 99% Accuracy
-      > Tug Of War - 99% Accuracy
-      > Mingle/Sky Squid Game/MonkeyBars MiniGame - 99% Accuracy
-      > JumpRope - 100% Accuracy
-      > Pehntatlon (Stone, Spinning Top, Gonggi) - 100%(Except Stone game - 99%) Accuracy
-      [<>] Slider Auto QTE Scan Delay(minimum 0 frames max 30 frames, more = better accuracy)
-      [<>] Slider Reaction time(The more the delay between clicks in some QTEs - For Legit Players)
-    [-] Auto Cookie Dalgona
-      [<>] Slider delay between clicks(The more the delay between clicks - For Legit Players)
-
   Exploits:
     [-] Infinite Ammo
       > Every Gun you take(Except Snowball Launcher and Sawn Off) gets Infinite Ammo
     [-] Rage Weapons Mode
       > Rapid Fire for all guns in game(Except Snowball Launcher)
       > Sawn Off Boost(Bullet Size and Bullet Amount at shot Increasing)
-    [-] Walls Penetration (EARLY ACCESS - PAID)
+    [-] Walls Penetration
       > Can wallbang any NPC/Player on the map
     [-] Legit Rapid Fire
       > Your shoots little faster, looks like legit
+      
+  Teleports:
+    [-] Teleport at the end of RLGL
+    [-] Teleport to the Safe Spot on Lights Out
+    [-] Teleport to the Lobby
+    [-] Teleport to the end of Glass Bridge(2 Types, 1 - Teleport to Hidden Spot on the end, 2 - Teleport to end)
+    [-] Collect all Keys(Which currently exist on Hide & Seek map)
+      > After Script collected all keys you get teleported back where you pressed button
+    [-] Teleport to the Exit on Hide&Seek
+    [-] Collect all Keys and tp to the Exit
 
   Misc:
     [-] Rebel Guards Hitbox Expander
       [<>] Slider able to set any Guard Hitbox Size(1-1500)
-    [-] Instant Interaction (EARLY ACCESS/BETA - PAID)
+    [-] Instant Interaction
       > Able to use instantly all ProximityPrompts(Hold E Duration)
       > Crashable
-    [-] Delete Hide&Seek KillParts (EARLY ACCESS - PAID)
+    [-] Delete Hide&Seek KillParts
       > Able to delete all killparts(Pikes) on hide&seek map
     [-] Delete Jump Rope Hitbox
       > Deleting jump rope hitbox which let u ignore Rope
