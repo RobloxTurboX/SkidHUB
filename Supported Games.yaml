@@ -9,7 +9,6 @@
       > Mingle/Sky Squid Game/MonkeyBars MiniGame - 99% Accuracy
       > JumpRope - 100% Accuracy
       > Pehntatlon (Stone, Spinning Top, Gonggi) - 100%(Except Stone game - 99%) Accuracy
-      [<>] Slider Auto QTE Scan Delay(minimum 0 frames max 30 frames, more = better accuracy)
       [<>] Slider Reaction time(The more the delay between clicks in some QTEs - For Legit Players)
     [-] Auto Cookie Dalgona
       [<>] Slider delay between clicks(The more the delay between clicks - For Legit Players)
@@ -75,12 +74,24 @@
       > Shows all hostages for evacuate
 
 [+] Your Bizzare Adventure(EARLY ACCESS - PAID)
-  Automation:
+  Items:
     [-] Auto Item Farm
       > Auto Farming items from list which u set in settings
     [-] Enable if you have 2x inventory pass
       > Enable this ONLY IF YOU HAVE 2X INVENTORY PASS TO EXTEND ITEM FARM LIMIT
-      
+    [-] Safe Auto Farm
+      > Auto Farm for Public Servers, hides your character under map while farming, 90% safer than regular farm
+    [-] Enable Auto Sell
+      > Script selling items when its maxxed
+
+  NPC:
+    [-] Auto NPC Farm
+      > Auto Farming NPC
+      > Dropdown to choose what NPC to farm
+      > Dropdown to choose Farm Method(Above/Under)
+    [-] Safe Farm for Dio OH/Jotaro Kujo
+      > You gonna be far away from NPC while farming, they wont be able to summon stand so you can farm without getting damage
+
   Visuals:
     [-] Items ESP
     > Able to set color for default items and lucky items
