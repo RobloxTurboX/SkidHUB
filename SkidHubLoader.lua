@@ -11,6 +11,8 @@ elseif game.PlaceId == 2809202155 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxTurboX/SkidHUB/refs/heads/main/YBA.luau"))()
 elseif game.PlaceId == 537413528 then
     loadstring(game:HttpGet("https://github.com/RobloxTurboX/SkidHUB/raw/refs/heads/main/Babft.luau"))()
+elseif game.PlaceId == 91731139776520 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxTurboX/SkidHUB/refs/heads/main/Cubination.lua"))()
 elseif game.PlaceId == 119099244949868 or game.PlaceId == 99567941238278 or game.PlaceId == 76172769094087 or game.PlaceId == 113555439745862 or game.PlaceId == 121431824618615 or game.PlaceId == 135136333168784 or game.PlaceId == 138384426832196 or 125810438250765 then
     return error("LOAD IN GAME NOT IN LOBBY🙏😭🥀")
 else
