@@ -1,0 +1,5 @@
+task.spawn(function()
+	error("Fuh bwfaf")
+	error("Welcome Tester")
+	error(dwakjdnaw)
+end)
