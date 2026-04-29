@@ -1,5 +1,36 @@
 {
   "InkGame": {
-    "Test": 1
-  }
+    "AutoGuard": true,
+    "AutoQTE": true,
+    "Dalgona": true,
+    "GBE": true,
+    "HSE": true,
+    "HIDS": true,
+    "PLRS": true,
+    "INF": true,
+    "RAGE": true,
+    "WALLS": true,
+    "LRAGE": true,
+    "TPs": true,
+    "RGHB": true,
+    "INST": true,
+    "DELKP": true,
+    "DELJP": true
+  },
+  "YBA": {
+    "ItemFarm": true,
+    "AutoSell": true,
+    "NPC": true,
+    "SafeNPC": true,
+    "ESP": true,
+    "Webhooks": true,
+    "Mod": true
+  },
+  "Babft": {
+    "Spoofer": true,
+    "AutoFarm": true
+  },
+  "AuthSystem": true,
+  "BypassAuth": false,
+  "Loaded": true
 }
