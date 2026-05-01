@@ -10,6 +10,7 @@
       > JumpRope - 100% Accuracy
       > Pehntatlon (Stone, Spinning Top, Gonggi) - 100%(Except Stone game - 99%) Accuracy
       [<>] Slider Reaction time(The more the delay between clicks in some QTEs - For Legit Players)
+      [<>] Slider Pixel Size trigger for Mingle Auto QTE(Based on radius of circle, test it to understand how it works)
     [-] Auto Cookie Dalgona
       [<>] Slider delay between clicks(The more the delay between clicks - For Legit Players)
       
@@ -58,20 +59,6 @@
     [-] Delete Jump Rope Hitbox
       > Deleting jump rope hitbox which let u ignore Rope
 
-
-
-[+] Deadly Delivery(EARLY ACCESS - PAID)
-  ESP:
-    [-] Items
-      > Shows Price, Name, Mutations
-      > If item not for sell(Bat and etc.) it doesnt show price and change name color to orange
-    [-] Interactable Stuff
-      > Shows all Interactable Stuff
-      > Show status if its looted
-    [-] Entities
-      > Shows all Entities
-    [-] Hostages
-      > Shows all hostages for evacuate
 
 [+] Your Bizzare Adventure(EARLY ACCESS - PAID)
   Items:
