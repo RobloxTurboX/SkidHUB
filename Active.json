@@ -11,7 +11,7 @@
     "RAGE": true,
     "WALLS": true,
     "LRAGE": true,
-    "TPs": false,
+    "TPs": true,
     "RGHB": true,
     "INST": true,
     "DELKP": true,
